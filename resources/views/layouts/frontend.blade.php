@@ -62,7 +62,7 @@
                 <!-- theme -->
                 <i class="bx bx-moon change-theme" id="theme-button"></i>
 
-                <a target="_blank" href="https://api.whatsapp.com/send?phone=088111444&text=I want to booking" class="button nav__button">Booking Now</a>
+                <a target="_blank" href="https://api.whatsapp.com/send?phone=0521152141&text=I want to booking" class="button nav__button">Booking Now</a>
             </nav>
         </header>
 
@@ -76,7 +76,7 @@
             <div class="footer__container container grid">
                 <div>
                     <a href="{{ route('homepage') }}" class="footer__logo">
-                        G<i class="bx bxs-map"></i> TRAVEL
+                        T.A.C<i class="bx bxs-map"></i> Lost on Purpose
                     </a>
                     <p class="footer__description">
                         Our vision is to help people find the <br />

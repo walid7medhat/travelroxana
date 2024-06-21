@@ -7,28 +7,34 @@
         <div>
             <!--========== ISLANDS 1 ==========-->
             <section class="islands">
-                <img
-                    src="{{ asset('frontend/assets/img/hero.jpg') }}"
-                    alt=""
-                    class="islands__bg"
-                />
+           <video
+                src="{{ asset('frontend/assets/img/4762782-uhd_4096_2160_24fps.mp4') }}"
+                class="islands__bg"
+                autoplay
+                muted
+                loop
+                playsinline
+            >
+                Your browser does not support the video tag.
+            </video>
+
                 <div class="bg__overlay">
                     <div class="islands__container container">
-                        <div
-                            class="islands__data"
-                            style="z-index: 99; position: relative"
-                        >
-                            <h2 class="islands__subtitle">
-                                Explore
-                            </h2>
-                            <h1 class="islands__title">
-                                Wonderfull World
-                            </h1>
-                            <p class="islands__description">
-                                It's the perfect time travel and
-                                enjoy the <br />
-                                beauty of the world.
-                            </p>
+                          <div
+                                        class="islands__data"
+                                        style="z-index: 99; position: relative"
+                                    >
+                                        <h2 class="islands__subtitle">
+                                            Welcome to
+                                        </h2>
+                                        <h1 class="islands__title">
+                                        T A C
+                                        The Adventurers Collective
+                                        </h1>
+                                        <p class="islands__description">
+                                        ​
+                                        INSPIRED BY TRAVEL - FUELLED BY ADVENTURE <br />
+                                        </p>
                         </div>
                     </div>
                 </div>
@@ -109,20 +115,20 @@
             <div class="value__orbe"></div>
 
             <div class="value__img">
-                <img src="{{ asset('frontend/assets/img/team.jpg') }}" alt="" />
+                <img src="{{ asset('frontend/assets/img/fddb0c_a8001724361a469a8abcef64ed084007~mv2.webp') }}" alt="" />
             </div>
         </div>
 
         <div class="value__content">
             <div class="value__data">
-                <span class="section__subtitle">Why Choose Us</span>
+                <span class="section__subtitle">Hello</span>
                 <h2 class="section__title">
-                    Experience That We Promise To You
+                    my name is Roxana Spataru
                 </h2>
                 <p class="value__description">
-                    We always ready to serve by providing the best
-                    service for you. We make a good choices to
-                    travel around the world.
+                   Italian, based in UAE & Sri Lanka as a second home, with a natural passion for adventures, outdoor activities, and simple living.
+
+I would never have imagined getting to where I am now in my life and seeing my greatest dreams come true.
                 </p>
             </div>
 
@@ -133,7 +139,7 @@
                             class="bx bxs-shield-x value-accordion-icon"
                         ></i>
                         <h3 class="value__accordion-title">
-                            Best places in the world
+                           For the last 5 years, I’ve been hiking, climbing, freediving, diving, surfing, and traveling.
                         </h3>
                         <div class="value__accordion-arrow">
                             <i class="bx bxs-down-arrow"></i>
@@ -142,9 +148,7 @@
 
                     <div class="value__accordion-content">
                         <p class="value__accordion-description">
-                            We provides the best places around the
-                            world and have a good quality of
-                            service.
+     Consider this page as a place to view stories and adventures dedicated to building a concept that supports getting people outside and into our natural environment
                         </p>
                     </div>
                 </div>

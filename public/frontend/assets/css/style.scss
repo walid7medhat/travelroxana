@@ -72,9 +72,9 @@ body.dark-theme {
     --container-color: hsl(228, 16%, 12%);
 }
 
-/*========== 
-    Color changes in some parts of 
-    the website, in dark theme 
+/*==========
+    Color changes in some parts of
+    the website, in dark theme
 ==========*/
 .dark-theme .swiper-button-next,
 .dark-theme .swiper-button-prev {
@@ -968,7 +968,7 @@ body.dark-theme {
 
     .value__img img,
     .contact__img img {
-        max-width: initial;
+        /* max-width: initial; */
         width: 490px;
     }
 

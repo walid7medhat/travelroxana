@@ -51,7 +51,7 @@ class TravelPackageController extends Controller
     public function edit(TravelPackage $travel_package)
     {
         $galleries = Gallery::paginate(10);
-        
+
         return view('admin.travel_packages.edit', compact('travel_package','galleries'));
     }
 
