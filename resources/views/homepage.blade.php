@@ -28,7 +28,7 @@
                                             Welcome to
                                         </h2>
                                         <h1 class="islands__title">
-                                        T A C
+
                                         The Adventurers Collective
                                         </h1>
                                         <p class="islands__description">

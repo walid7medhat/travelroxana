@@ -27,8 +27,7 @@
         <header class="header" id="header">
             <nav class="nav container">
                 <a href="{{ route('homepage') }}" class="nav__logo"
-                    >T A C<i class="bx bxs-map"></i>  Adventurers </a
-                >
+                    >T A C  </a>
 
                 <div class="nav__menu">
                     <ul class="nav__list">
@@ -76,7 +75,7 @@
             <div class="footer__container container grid">
                 <div>
                     <a href="{{ route('homepage') }}" class="footer__logo">
-                        T.A.C<i class="bx bxs-map"></i> Lost on Purpose
+                        T A C
                     </a>
                     <p class="footer__description">
                         Our vision is to help people find the <br />
